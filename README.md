@@ -37,3 +37,11 @@ Independent testing of order-related features can be conducted by running the or
 Dependencies:
 The projects utilize the Django web framework, providing a robust foundation for web application development.
 Additional dependencies and third-party packages can be included based on specific project requirements.
+
+#installing the the dependence
+pip install -r requirements.txt
+
+
+
+Contributing:
+Contributions to enhance and expand the project are welcome. Follow best practices and guidelines outlined in the project's documentation.
